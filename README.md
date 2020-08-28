@@ -35,15 +35,19 @@ There are a few challenges that need to be addressed to successfully pivot the d
 #### Outcomes by Launch Date
 Below is the chart displaying the outcomes of the theater campaigns based on their launch month. There is a clear trend that emerges in front of us. The month of May has the highest number of successful theater campaigns. What can this be attributed to? Maybe the month of May is when a lot of people have summer vacation and consequently more leisure time, which in turn may drive up the demand for theater services. 
 
-Similarly, the month of November and December have the least number of successful plays, which tells us that a lot of campaigns that start in those months do not come to fruition, this maybe can be attributed to people being busy in holiday activities related to Christmas and Thanksgiving and they maybe do not have time or money left over to spend on theater activities. 
+Similarly, the month of November and December have the least number of successful plays, which tells us that a lot of campaigns that start in those months do not come to fruition, this maybe can be attributed to people being busy in holiday activities related to Christmas and Thanksgiving and they maybe do not have time or money left over to spend on theater activities.
+<p>&nbsp;</p>
 
-<img align="center" width="300" src="/resources/Theater_Outcomes_vs_Launch.png" />
+<img align="center" width="900" src="resources/Theater_Outcomes_vs_Launch.png"/>
+<p>&nbsp;</p>
 
 #### Outcomes based on Goals
 The chart below shows the outcomes vs. the campaign goal amount. It is a lot more varied than the above chart and it does not provide a clear cut answer. However, overall we can say that campaigns that have a lower campaign goal have a higher chance of being successful. This can be shown by the blue line being above the orange line from < $1,000 to $19,999. 
+<p>&nbsp;</p>
 
-<resources/Outcomes_vs_Goals.png>
+<img align="center" width="900" src="resources/Outcomes_vs_Goals.png"/>
 
+<p>&nbsp;</p>
 #### Some limitations of this dataset
    - For a more granular analysis, the play sub-category can be divided further into the genre of the play. 
    - The dataset does not have information on the founder of the campaigns. 
