@@ -37,12 +37,12 @@ Below is the chart displaying the outcomes of the theater campaigns based on the
 
 Similarly, the month of November and December have the least number of successful plays, which tells us that a lot of campaigns that start in those months do not come to fruition, this maybe can be attributed to people being busy in holiday activities related to Christmas and Thanksgiving and they maybe do not have time or money left over to spend on theater activities. 
 
-(resources/Theater_Outcomes_vs_Launch.png)
+<resources/Theater_Outcomes_vs_Launch.png>
 
 #### Outcomes based on Goals
 The chart below shows the outcomes vs. the campaign goal amount. It is a lot more varied than the above chart and it does not provide a clear cut answer. However, overall we can say that campaigns that have a lower campaign goal have a higher chance of being successful. This can be shown by the blue line being above the orange line from < $1,000 to $19,999. 
 
-(resources/Outcomes_vs_Goals.png)
+<resources/Outcomes_vs_Goals.png>
 
 #### Some limitations of this dataset
    - For a more granular analysis, the play sub-category can be divided further into the genre of the play. 
