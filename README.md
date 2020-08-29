@@ -1,4 +1,4 @@
-# Analysis of Kikstarter Campaigns
+# Analysis of Kickstarter Campaigns
 
 ### **Overview of Project**
 The project analyses Kickstarter data from 2010 to 2017 to finds trends and patterns for launching a successful funding campaign for theater plays. 
@@ -9,16 +9,16 @@ This analysis was completed using Microsoft Excel and to work with the tool, one
 
 #### **Analysis Methodology**
 1. Outcomes Based on Launch Date
-The first analysis looks at the outcomes of the Kikstarter theater campaigns based on the launch data or more specifically by the launch month. The objective is to see if there are any visible trends when it comes to launching a successful theater play campaign. To complete the analysis:
+The first analysis looks at the outcomes of the Kickstarter theater campaigns based on the launch data or more specifically by the launch month. The objective is to see if there are any visible trends when it comes to launching a successful theater play campaign. To complete the analysis:
    -  The dates in the data set were converted from UNIX timestamp to short data type and the year and month were extracted from each date. 
-    - Next, the entire Kikstarter dataset was selected in a pivot table with the following selections:
+    - Next, the entire Kickstarter dataset was selected in a pivot table with the following selections:
        - `Parent Category` and `Years` as the filter.
        - `outcomes` in the columns and values
        - `Years` in the row labels, adjust the row labels settings so that instead of showing the data per year the data is showed for each month.
     - Next, filter the data based on the 'theater' parent category and plot the resulting pivot table.
 
 2. Outcomes Based on Goals
-The second analysis looks at the outcomes of the Kikstarter theater based on the funding goals for the campaigns. To get a better insight into the trends, the goal data was distributed into 11 bins of equal intervals starting from 'less than $1,000' and going to '$50,000 and above'. To complete the analysis:
+The second analysis looks at the outcomes of the Kickstarter theater based on the funding goals for the campaigns. To get a better insight into the trends, the goal data was distributed into 11 bins of equal intervals starting from 'less than $1,000' and going to '$50,000 and above'. To complete the analysis:
    - Create bin intervals starting from $1,000 and incrementing by $4,999 going all the way up to $50,000. 
    - Next, use the `COUNTIF` function to find out the total number of successful, failed, and canceled projects for each bin range.
    - Next, calculate the percentage of successful, failed, and canceled projects for each bin range.
@@ -52,7 +52,7 @@ The chart below shows the outcomes vs. the campaign goal amount. It is a lot mor
 #### **Some limitations of this dataset**
    - For a more granular analysis, the play sub-category can be divided further into the genre of the play. 
    - The dataset does not have information on the founder of the campaigns. 
-   - The dataset has no information on how and where the Kikstarter campaigns were advertised.
+   - The dataset has no information on how and where the Kickstarter campaigns were advertised.
 
 #### **Additional tables and/or graphs**
    - We can create a pivot chart of outcomes of 'plays' vs the launch date to see if play campaigns follow the same trend that the theater campaigns follow. 
