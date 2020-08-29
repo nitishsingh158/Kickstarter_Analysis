@@ -37,7 +37,8 @@ Below is the chart displaying the outcomes of the theater campaigns based on the
 
 Similarly, the month of November and December have the least number of successful plays, which tells us that a lot of campaigns that start in those months do not come to fruition, this maybe can be attributed to people being busy in holiday activities related to Christmas and Thanksgiving and they maybe do not have time or money left over to spend on theater activities.
 <p>&nbsp;</p>
-
+![Theater_Outcomes_vs_Launch:](resources/Theater_Outcomes_vs_Launch.png)
+<p>&nbsp;</p>
 <img align="center" width="900" src="resources/Theater_Outcomes_vs_Launch.png"/>
 <p>&nbsp;</p>
 
